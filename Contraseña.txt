@@ -1,0 +1,6 @@
+usuario y contraseña : admin
+nombre de BD: sis_venta
+
+Profesor se que se tenia que implementar el sistema con todas las tecnologias pero debido a situaciones familiares no pude implementarlas 
+como pidio.El sistema funciona de manera local corriendo en XAMPP ya que es una aplicacion que desarrolle en semestres anteriores en base a una plantilla
+HTML 5.
